@@ -1,3 +1,5 @@
+NB: Not tested for production, use at your own risks.
+
 # Mnemoneth
 
 Simple javascript library that allows generation of a HD private key from a bitcore mnemonic and its recovery if you saved the mnemonic. It also allows the generation of an ethereum private key and address based on the HD private key (that you can recover with the mnemonic). You can sign data with directly with this library, check the API.
